@@ -27,49 +27,9 @@ Architecture: Clean and modular folder structure for scalability
 Utilities: Image caching, exception handling, and custom dialogs for robust performance
 
 
-# File Structure
+## File Structure
 
-/lib
-│── firebase_options.dart
-│── main.dart
-│
-├── auth/
-│   ├── auth_screen.dart
-│   ├── mainpage.dart
-│
-├── data/
-│   ├── firebase_service/
-│   │   ├── firebase_auth.dart
-│   │   ├── firebase_firestore.dart
-│   │   ├── firestore.dart
-│   │   ├── storage.dart
-│   └── model/
-│       └── usermodel.dart
-│
-├── screens/
-│   ├── addpost_text.dart
-│   ├── add_post_screen.dart
-│   ├── add_reels_screen.dart
-│   ├── add_screen.dart
-│   ├── explore.dart
-│   ├── explore_screen.dart
-│   ├── home.dart
-│   ├── login_screen.dart
-│   ├── post_screen.dart
-│   ├── profile_screen.dart
-│   ├── reels_screen.dart
-│   ├── reels_edit_screen.dart
-│   └── signup.dart
-│
-├── util/
-│   ├── dialog.dart
-│   ├── exception.dart
-│   ├── image_picker.dart
-│   └── image_cached.dart
-│
-└── widgets/
-    ├── comment.dart
-    ├── like_animation.dart
-    ├── navigation.dart
-    ├── post_widget.dart
-    └── reels_item.dart
+
+<img width="514" height="906" alt="image" src="https://github.com/user-attachments/assets/7faa8dff-d8c5-4132-b7c9-c1a7a90d145f" />
+
+
