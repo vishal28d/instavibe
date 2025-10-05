@@ -27,9 +27,20 @@ Architecture: Clean and modular folder structure for scalability
 Utilities: Image caching, exception handling, and custom dialogs for robust performance
 
 
+## Screenshots
+<img width="216" height="480" alt="Screenshot_1759682298" src="https://github.com/user-attachments/assets/09a35a48-d9f6-4f5b-b10e-e78845e116f5" />
+<img width="216" height="480" alt="Screenshot_1759682343" src="https://github.com/user-attachments/assets/46f4f540-e0bb-4a45-a17f-6c6d34692981" />
+<img width="216" height="480" alt="Screenshot_1759682459" src="https://github.com/user-attachments/assets/283b9061-602b-49da-83ec-05fa3110e33b" />
+<img width="216" height="480" alt="Screenshot_1759682430" src="https://github.com/user-attachments/assets/fecbd668-214e-49d0-842f-97959023d2cb" />
+
+
+
+
+
 ## File Structure
 
 
 <img width="514" height="906" alt="image" src="https://github.com/user-attachments/assets/7faa8dff-d8c5-4132-b7c9-c1a7a90d145f" />
+
 
 
